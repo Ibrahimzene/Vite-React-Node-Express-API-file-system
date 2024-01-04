@@ -14,4 +14,4 @@ export const getAllFilesInDirectory = (directoryPath: string, filesArray: string
 	});
 
 	return filesArray;
-}
+};
